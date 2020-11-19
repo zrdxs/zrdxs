@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![My Badges](https://badgeslab-images-bucket.s3-sa-east-1.amazonaws.com/redventures/marcelo-zardo.png)
 <!--
 **MarceloZardoBR/MarceloZardoBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
