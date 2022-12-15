@@ -10,11 +10,11 @@ I am a Software Engineer from São Paulo - Brazil with bachareal degree in Infor
 - Go
 - AWS
 - Terraform
-- Circle CI
 
 ## 🌱 I’m currently learning:
 - AWS
-- Docker
+- Kubernetes
+- Kafka
 
 ## 📫 How to reach me:
 
