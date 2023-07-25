@@ -8,13 +8,12 @@ I am a Software Engineer from São Paulo - Brazil with bachareal degree in Infor
 
 ## 🔭 I’m currently working on:
 - Go
-- AWS
-- Terraform
+- Kafka
+- Kubernetes
 
 ## 🌱 I’m currently learning:
-- AWS
+- Event Sourcing
 - Kubernetes
-- Kafka
 
 ## 📫 How to reach me:
 
